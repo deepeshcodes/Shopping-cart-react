@@ -1,0 +1,6 @@
+.env
+node_modules/
+*.txt
+*.env
+.sass-cache
+/node_modules
